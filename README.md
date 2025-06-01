@@ -1,50 +1,47 @@
-
-
 <h1 align="center">
-  Hi I'm Devaansh Kushwaha.
+  👋 Hello, I'm <span style="color:#FF6347;">Devaansh Kushwaha</span>
 </h1>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=2E97CB&center=true&vCenter=true&random=false&width=600&height=100&lines=VFX+Artist;Motion+Designer;Visual+Storyteller;Head+of+VFX+at+UPES+ACM+Student+Chapter;" alt="Typing SVG" />
-</div>
-## 🎥 About Me
+<p align="center">
+  🎥 <strong>Head of VFX</strong> at <strong>UPES ACM Student Chapter</strong><br>
+  🌟 Passionate about creating stunning visuals and motion graphics.<br>
+  🎨 Lover of cinematography, animation, and immersive digital experiences.<br>
+</p>
 
-- 🎬 VFX Artist and Motion Designer passionate about **visual storytelling**.
-- 🎨 Head of VFX at **UPES ACM Student Chapter**.
-- 🔥 Skilled in creating **immersive visual effects** for film, animation, and digital media.
-- 💡 Enthusiastic about exploring **cutting-edge VFX tools** and techniques.
-- 🌟 Always seeking new ways to bring **imagination to life** through visual effects.
-- 📸 Lover of cinematography, composition, and digital art.
+---
 
+## 🎬 About Me
 
+- 🏫 Head of VFX at **UPES ACM Student Chapter**
+- 🚀 Focused on bringing **imagination to life** through **visual effects** and **motion design**
+- ✨ Expertise in **After Effects**, **Premiere Pro**, and **Lightroom**
+- 🎥 Constantly exploring new creative techniques in **motion graphics** and **cinematic storytelling**
+- 📷 Passionate about **cinematography**, **digital art**, and **photography**
 
-<h2 align="center">🛠️ VFX Tools & Software</h2>
+---
 
-<div align="center">
+## 🛠️ My Toolbox
 
-### 🎬 VFX & Motion Design
-![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-%239999FF.svg?&style=for-the-badge&logo=adobe-after-effects&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-%239999FF.svg?&style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
-![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-%23FF6F00.svg?&style=for-the-badge&logo=da-vinci-resolve&logoColor=white)
-![Nuke](https://img.shields.io/badge/Nuke-%23FCAF17.svg?&style=for-the-badge&logo=nuke&logoColor=black)
-![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?&style=for-the-badge&logo=blender&logoColor=white)
+| 🎨 **Design & Editing** | 🎥 **VFX & Animation** | 💻 **Software** |
+|:-----------------------:|:----------------------:|:---------------:|
+| ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white) | ![After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white) | ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) |
+| ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white) | ![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
+| ![Lightroom](https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobe-lightroom&logoColor=white) | ![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-FF6F00?style=for-the-badge&logo=da-vinci-resolve&logoColor=white) | |
 
-### 🖌️ Design & Editing
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-%23001E36.svg?&style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Illustrator-%23FF9A00.svg?&style=for-the-badge&logo=adobe-illustrator&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-%23FF61F6.svg?&style=for-the-badge&logo=adobe-xd&logoColor=white)
-![Lightroom](https://img.shields.io/badge/Lightroom-%23001E36.svg?&style=for-the-badge&logo=adobe-lightroom&logoColor=white)
+---
 
+## ✨ Creative Interests
+- 🔥 Motion Graphics and Title Design
+- 🎞️ Visual Storytelling through Compositing
+- 📸 Photography & Cinematic Color Grading
+- 🌌 Crafting immersive digital experiences
 
-### 🖥️ Operating Systems
-![Windows](https://img.shields.io/badge/Windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?&style=for-the-badge&logo=linux&logoColor=black)
+---
 
-</div>
+## 🤝 Let's Create Together!
+<p align="center">
+  🚀 Open to **collaborations, VFX projects**, and **creative storytelling**.<br>
+  💬 Reach out for a chat about **VFX, animation**, or anything creative!<br>
+</p>
 
-
-<div align="center">
-  <h4>💼 I'd love to hear from you! Whether you're looking to collaborate, discuss VFX, or just say hi, let's connect. I'm always excited to share ideas and create amazing visuals together.
-  </h4>
-</div>
-
+---
