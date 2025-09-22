@@ -1,7 +1,21 @@
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF6347&height=180&section=header&text=Devaansh%20Kushwaha%20%7C%20VFX%20Artist&fontSize=40&fontAlignY=35&desc=Head%20of%20VFX%20%40%20UPES%20ACM%20Student%20Chapter&descAlignY=60" alt="banner"/>
-</p>
+<div align="center">
+  <!-- Cyberpunk Animation Header -->
+  <img width="100%" src="./cyberpunk_animation.gif" alt="Cyberpunk Coding Animation"/>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=26&duration=2000&pause=1000&color=f5af19&center=true&vCenter=true&multiline=true&width=1000&lines=%3E%20DEVAANSH.exe%20LOADED...;%3E%20VFX_ARTIST%20%7C%20CYBERPUNK_DEVELOPER;%3E%20VISUAL_HACKER%20ONLINE...;%3E%20WELCOME_TO_THE_MATRIX_%5BDEVAANSH%5D" alt="Cyberpunk Loading" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=devaanshkushwaha06&label=NEURAL_CONNECTIONS&color=e94560&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/devaanshkushwaha06?label=CYBER_FOLLOWERS&style=for-the-badge&color=f5af19&labelColor=0f0f23" alt="GitHub followers" />
+  <img src="https://img.shields.io/badge/STATUS-ONLINE_IN_CYBERSPACE-e94560?style=for-the-badge&logo=matrix" alt="Status" />
+</div>
+
+<!-- Note: To use your cyberpunk_animation.gif, upload it to GitHub or image hosting service -->
+<!-- Then replace the capsule-render URL with: https://your-hosted-gif-url.gif -->
 
 ---
 
